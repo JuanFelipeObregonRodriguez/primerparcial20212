@@ -2,15 +2,22 @@
     align-items: center;
     justify-content: center;
    display: flex;
-   display: inline-block;
+   text-align: center;
+   float: inline-start;
+  
+
 }
 #img{
    width: 200px;
+   align-self: center;
 }
 #link{
-
+box-sizing: border-box;
     border-radius: 10px 10px 0px 149px;
 -moz-border-radius: 10px 10px 0px 149px;
 -webkit-border-radius: 10px 10px 0px 149px;
 border: 0px solid #0c0ce8;
+}
+#elementos{
+    display: inline-block;
 }
