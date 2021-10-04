@@ -1,0 +1,16 @@
+#container{
+    align-items: center;
+    justify-content: center;
+   display: flex;
+   display: inline-block;
+}
+#img{
+   width: 200px;
+}
+#link{
+
+    border-radius: 10px 10px 0px 149px;
+-moz-border-radius: 10px 10px 0px 149px;
+-webkit-border-radius: 10px 10px 0px 149px;
+border: 0px solid #0c0ce8;
+}
